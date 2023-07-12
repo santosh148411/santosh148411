@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Santosh S
+- 👀 Learning new things and doing coding are very exciting to me 
+- 🌱 I am currently pursuing a BCA degree 
+- 💞️ I am interested in working on projects related to the Internet of Things
